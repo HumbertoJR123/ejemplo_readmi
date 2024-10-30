@@ -58,8 +58,6 @@ Texto con nota al pie[^1].
 
 > **Advertencia:** Esto es una alerta importante.
 
-### Otros comandos
-
 #### Salto de línea
 
 Este es un ejemplo de salto de línea.  
@@ -78,10 +76,10 @@ Aquí hay un ejemplo de `código en línea`.
 
 ### Tablas
 
-| Encabezado 1 | Encabezado 2 |
+| nombre | clave |
 |---------------|---------------|
-| Fila 1        | Fila 1       |
-| Fila 2        | Fila 2       |
+| Pepito Ortiz      | 7      |
+| Juanito       | 8       |
 
 ### Emojis
 
@@ -89,7 +87,7 @@ Aquí hay un emoji: :smile:
 
 ### Referencias de enlace
 
-Puedes encontrar más información en [GitHub][1].
+Puedes encontrar más información en [https://github.com/HumbertoJR123/ejemplo_readmi.git][1].
 
 [1]: https://github.com
 

@@ -46,22 +46,22 @@ Puedes ir a la sección de [Ejemplos](#ejemplos) más abajo.
 
 ### Mencionar personas y equipos
 
-Puedes mencionar a @nombredeusuario o @equipo.
+Puedes mencionar a @nAgrick67@gmail.com o @FC_Pelucheros.
 
 ### Notas al pie
 
-Texto con nota al pie[^1].
+en la nota de pie de pagina veras el texto: Hola mundo[^1].
 
-[^1]: Esta es la nota al pie.
+[^1]: Hola mundo.
 
 ### Alertas
 
-> **Advertencia:** Esto es una alerta importante.
+> **Advertencia:** Esto es una alerta importante ten cuidado manco! ijiji.
 
 #### Salto de línea
 
-Este es un ejemplo de salto de línea.  
-Este texto está en la siguiente línea.
+villa de los niños.  
+ubicacion: zona 6 ciudad de guatemala.
 
 #### Citas
 

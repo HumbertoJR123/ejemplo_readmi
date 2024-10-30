@@ -14,7 +14,7 @@ Esta es una prueba para crear el archivo README de GitHub.
 
 ### Vínculos
 
-Para más información, visita [GitHub](https://github.com).
+Para más información, visita [https://github.com/HumbertoJR123/ejemplo_readmi.git](https://github.com).
 
 ### Enlaces de sección
 
@@ -83,7 +83,7 @@ Aquí hay un ejemplo de `código en línea`.
 
 ### Emojis
 
-Aquí hay un emoji: :smile:
+Carita feliz emejis: :smile:
 
 ### Referencias de enlace
 

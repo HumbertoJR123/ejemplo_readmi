@@ -22,7 +22,7 @@ Puedes ir a la sección de [Ejemplos](#ejemplos) más abajo.
 
 ### Imágenes
 
-![Logo](https://ejemplo.com/logo.png)
+![Logo](![alt text](image.png))
 
 ### Listas
 

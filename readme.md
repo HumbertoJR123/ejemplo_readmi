@@ -22,22 +22,22 @@ Puedes ir a la sección de [Ejemplos](#ejemplos) más abajo.
 
 ### Imágenes
 
-![Logo](![alt text](image.png))
+![Limagen/logo](![alt text](image.png))
 
 ### Listas
 
-- Elemento 1
-- Elemento 2
+- manzana
+- mango
 
-1. Primer elemento
-2. Segundo elemento
+1. patata
+2. tomate
 
 #### Listas anidadas
 
-- Elemento 1
-  - Subelemento 1.1
-  - Subelemento 1.2
-- Elemento 2
+- frutas
+  - mango1.1
+  - bananoo 1.2
+- vegetales
 
 #### Listas de tareas
 
